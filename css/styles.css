@@ -1,0 +1,41 @@
+
+.clickable {
+ color: red;
+ cursor:pointer;
+}
+.dark-theme {
+  background-color: black;
+  color:yellow;
+}
+.light-theme {
+  background-color: white;
+  color:black;
+}
+#initialy-dark{
+  display:none;
+}
+
+
+/* .green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+
+.purple-background {
+  background-color: purple;
+}
+
+.brown-background {
+  background-color: brown;
+}
+
+.orange-background {
+  background-color: orange;
+} */
